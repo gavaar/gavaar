@@ -63,11 +63,6 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 
 <img class="center-self" src="https://spotify-recently-played-readme.vercel.app/api?user=22f7dtvpctgyabn5z2vlunwty&unique=true&count=10&width=500">
 
-<hr>
-
-## You made it this far?? Wow, thanks for reading! :)
-<img style="display: flex; margin-left: auto" src="https://komarev.com/ghpvc/?username=gavaar">
-
 ## Education
 
 <div style="display: flex">
@@ -87,3 +82,8 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
         Lorem ipsum
     </div>
 </div>
+
+<hr>
+
+## You made it this far?? Wow, thanks for reading! :)
+<img style="display: flex; margin-left: auto" src="https://komarev.com/ghpvc/?username=gavaar">
