@@ -1,36 +1,30 @@
 # Gavaar
 
-<!-- <style>
-    .center-children { display: flex; flex-flow: row wrap; justify-content: center; }
-    .center-self { display: flex; margin: 0 auto; }
-    .padded { padding: 5px; }
-    hr { width: 100%; }
-</style> -->
-
 <img src="./assets/header.png">
 
 ## Summary
 
 I'm a web developer who went crazy and changed his career a few years ago. Now, I have become really passionate about the Javascript and Typescript world, having worked with different technologies on professional companies as well as stupid (and some not-as-much) personal projects.
 
-<hr style="width: 100%">
+<hr>
 
 ## Some stats about me
-<div style="display: flex; flex-flow: row wrap; justify-content: center;">
-    <img style="padding: 5px" src="https://github-readme-stats.vercel.app/api?username=gavaar&count_private=true&show_icons=true&theme=gotham">
-    <img style="padding: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavaar&layout=compact">
-    <img style="padding: 5px" src="https://stackoverflow-card.vercel.app/?userID=10121165&theme=stackoverflow-dark">
-    <hr style="opacity: 0.1;">
-    <img style="padding: 5px" src="https://github-profile-trophy.vercel.app/?username=gavaar&theme=discord">
-</div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavaar&layout=compact"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar&count_private=true&show_icons=true&theme=gotham"></p>
+<p align="center"><img src="https://stackoverflow-card.vercel.app/?userID=10121165&theme=stackoverflow-dark">
+</p>
+<hr>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=gavaar&theme=discord"></p>
 
 > <small>*Do note these stats do not include current workload, as those commits are hosted somewhere else*</small>
 
-<hr style="width: 100%">
+<hr>
 
 ## About me
 
-<img style="display: flex; margin: 0 auto;" src="https://pbs.twimg.com/profile_images/1432673063364136963/LLh4_SiS_400x400.jpg">
+<p align="center">
+    <img src="https://pbs.twimg.com/profile_images/1432673063364136963/LLh4_SiS_400x400.jpg">
+</p>
 
 > No pain au chocolat, no gain au chocolat
 
@@ -57,35 +51,30 @@ This is another area in which I did not think I'd end up diving into. I started 
 
 I have played games since I have memory. This is all my dad's fault. Also, I do think games helped me develop my cognitive abilities so I think I will be gaming until I die. In this sense: at the time of this writing, you cand find me playing stuff like Stardew Valley, Dota2, Age of Empires IV, Elden Ring, and what not.
 
-<a href="https://steamcommunity.com/id/oxspit/" target="_blank"><img style="display: flex; margin: 0 auto;" src="https://steamcard.vercel.app/card/76561198046962759/en,badge,group" alt="76561198046962759"/></a>
-
+<p align="center">
+    <a href="https://steamcommunity.com/id/oxspit/" target="_blank"><img src="https://steamcard.vercel.app/card/76561198046962759/en,badge,group" alt="76561198046962759"/></a>
+</p>
 ### Music
 
 Lately I've been going crazy about festivals. So, if possible, I'd like to attend as many as I can in the coming years. Here's some of the things I've been listening to:
 
-<img style="display: flex; margin: 0 auto;" src="https://spotify-recently-played-readme.vercel.app/api?user=22f7dtvpctgyabn5z2vlunwty&unique=true&count=10&width=500">
+<p align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22f7dtvpctgyabn5z2vlunwty&unique=true&count=10&width=500">
+</p>
 
 ## Education
 
-<div style="display: flex">
-    <img style="margin: auto 15px 0 0; background: white; border-radius: 50%;" height="100px" src="./assets/ucv.png">
-    <div>
+<p>
+    <img height="100px" src="./assets/ucv.png">
+    <p>
         <strong>Bachelors in Psychology (2012-2017)</strong>
         <br>
         Five year career plan, for which three correspond to general knowledge, and the last two were for the specialization of Behavioral Sciences. Including internship, social services, and a dissertation.
-    </div>
-</div>
+    </p>
+</p>
 <br>
-<div style="display: flex">
-    <img style="margin: auto 15px 0 0; background: white; border-radius: 50%;" height="100px" src="./assets/ucv.png">
-    <div>
-        <strong>Placeholder</strong>
-        <br>
-        Lorem ipsum
-    </div>
-</div>
 
-<hr style="width: 100%">
+<hr>
 
 ## You made it this far?? Wow, thanks for reading! :)
-<img style="display: flex; margin-left: auto" src="https://komarev.com/ghpvc/?username=gavaar">
+<img align="right" src="https://komarev.com/ghpvc/?username=gavaar">
