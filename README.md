@@ -6,8 +6,6 @@
 
 I'm a web developer who went crazy and changed his career a few years ago. Now, I have become really passionate about the Javascript and Typescript world, having worked with different technologies on professional companies as well as stupid (and some not-as-much) personal projects.
 
-<hr>
-
 ## Some stats about me
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavaar&layout=compact"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar&count_private=true&show_icons=true&theme=gotham"></p>
@@ -17,8 +15,6 @@ I'm a web developer who went crazy and changed his career a few years ago. Now, 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=gavaar&theme=discord"></p>
 
 > <small>*Do note these stats do not include current workload, as those commits are hosted somewhere else*</small>
-
-<hr>
 
 ## About me
 
@@ -70,6 +66,24 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
     <strong>Bachelors in Psychology (2012-2017)</strong>
     <p>Five year career plan, for which three correspond to general knowledge, and the last two were for the specialization of Behavioral Sciences. Including internship, social services, and a dissertation.</p>
 </p>
+<br/>
+
+<img width="100" align="left" src="./assets/coursera_logo.png">
+<p>
+    <strong>Online Specialization on Mean Stack (Angular) (2018-2019)</strong>
+    <p>Online specialization on the Mean stack focused on Angular, given by the Hong Kong University through the Coursera platform. It included Ionic and Nativescript at the moment, but right now these techs have evolved to the point to being very user-friendly. Now they also include a React alternative on their spec.</p>
+</p>
+<br/>
+
+## Professional Experience
+
+<img width="100" align="left" src="https://media-exp1.licdn.com/dms/image/C560BAQExMLSWu8uaLQ/company-logo_200_200/0/1656677699986?e=1666224000&v=beta&t=C-nEDAXmDy3bQ9HikgFytEzp8S0BkiIvuZjfcR6qr0I">
+<p>
+    <strong><a href="https://www.dynatrace.com/">Dynatrace</a> (2022-Curent)</strong>
+    <p><img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'><img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'><img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'><img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'></p>
+    <p>Learning and growing!</p>
+</p>
+<br/>
 
 <br/>
 
