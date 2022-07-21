@@ -23,7 +23,7 @@ I'm a web developer who went crazy and changed his career a few years ago. Now, 
 ## About me
 
 <p align="center">
-    <img src="https://pbs.twimg.com/profile_images/1432673063364136963/LLh4_SiS_400x400.jpg">
+    <img height="400" src="./assets/me_sitting.jpg">
 </p>
 
 > No pain au chocolat, no gain au chocolat
@@ -60,20 +60,18 @@ I have played games since I have memory. This is all my dad's fault. Also, I do 
 Lately I've been going crazy about festivals. So, if possible, I'd like to attend as many as I can in the coming years. Here's some of the things I've been listening to:
 
 <p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22f7dtvpctgyabn5z2vlunwty&unique=true&count=10&width=500">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22f7dtvpctgyabn5z2vlunwty&unique=true&count=5&width=700">
 </p>
 
 ## Education
 
+<img width="100" align="left" src="./assets/ucv.png">
 <p>
-    <img height="100px" src="./assets/ucv.png">
-    <p>
-        <strong>Bachelors in Psychology (2012-2017)</strong>
-        <br>
-        Five year career plan, for which three correspond to general knowledge, and the last two were for the specialization of Behavioral Sciences. Including internship, social services, and a dissertation.
-    </p>
+    <strong>Bachelors in Psychology (2012-2017)</strong>
+    <p>Five year career plan, for which three correspond to general knowledge, and the last two were for the specialization of Behavioral Sciences. Including internship, social services, and a dissertation.</p>
 </p>
-<br>
+
+<br/>
 
 <hr>
 
