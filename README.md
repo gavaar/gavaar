@@ -32,7 +32,7 @@ Some random info about me:
 
 <!-- WEB DEVELOPMENT -->
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻&nbsp;<h3>Web Development</h3>&nbsp;👨‍💻</summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻&nbsp;<h3>Web Development</h3>&nbsp;👨‍💻</summary>
 After I got my head wrapped around the idea of having to learn to code. I went into <a href="https://codecademy.com">codecademy</a> and started doing the HTML, CSS and Javascript courses. Then I applied in coursera to a <a href="https://www.coursera.org/specializations/full-stack-mobile-app-development">MEAN stack basic initiation course</a> (Mongo, Angular, Express, Node), and started dwabbling around with my newfound knowledge in some personal projects, and later some quick freelance work, fixing components and sometimes creating new ones.
 
 I learned <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'> HTML, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'> CSS, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> Javascript
@@ -41,19 +41,19 @@ I learned <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/i
 
 <!-- PSYCHOLOGY -->
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;🧠&nbsp;<h3>Psychology</h3>&nbsp;🧠</summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠&nbsp;<h3>Psychology</h3>&nbsp;🧠</summary>
 Even though I did not enjoy the professional aspects of Psychology, I did really enjoy learning about behavioral sciences and all-things related to human behavior. Human consumer behavior and human biological impulses and it's effects on psychology and sociology are things that to this day catches my interest. Currently, I'm trying to summarize all I have learned (without citing or academic-related stuff) in a single place in which I can update what I find with the latest information on Human Behavior.
 </details>
 
 <!-- NUTRITION / FITNESS -->
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;🏋️&nbsp;<h3>Nutrition / Fitness</h3>&nbsp;🏋️</summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️&nbsp;<h3>Nutrition / Fitness</h3>&nbsp;🏋️</summary>
 This is another area in which I did not think I'd end up diving into. I started learning about this for the wrong purposes (trying to look better, etc). But down the road have learned a lot about nutrition, exercising, the ways muscles develop in different areas (energy / mechanical), and how eating one thing or another affects your ability to deliver in other very-unrelated areas. Glycemic index / Insulin response / Fasting, etc. As the day of this writing: I'm trying to live a life with a <a href="https://en.wikipedia.org/wiki/Low-carbohydrate_diet">low-carb diet</a> (it's not a 0-carb diet though), and a heavy focus on strength-training (meaning, getting them muscles harder, not bigger).
 </details>
 
 <!-- GAMING -->
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;🎮&nbsp;<h3>Gaming</h3>&nbsp;🎮</summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮&nbsp;<h3>Gaming</h3>&nbsp;🎮</summary>
 I have played games since I have memory. This is all my dad's fault. Also, I do think games helped me develop my cognitive abilities so I think I will be gaming until I die. In this sense: at the time of this writing, you cand find me playing stuff like Stardew Valley, Dota2, Age of Empires IV, Elden Ring, and what not.
 
 <p align="center">
@@ -63,7 +63,7 @@ I have played games since I have memory. This is all my dad's fault. Also, I do 
 
 <!-- MUSIC -->
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;🎶&nbsp;<h3>Music</h3>&nbsp;🎶</summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎶&nbsp;<h3>Music</h3>&nbsp;🎶</summary>
 
 Lately I've been going crazy about festivals. So, if possible, I'd like to attend as many as I can in the coming years. Here's some of the things I've been listening to:
 
@@ -74,7 +74,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 
 <!-- EDUCATION -->
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚&nbsp;<h3>Education</h3>&nbsp;📚</summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚&nbsp;<h3>Education</h3>&nbsp;📚</summary>
 
 <img width="100" align="left" src="./assets/ucv.png">
 <p>
@@ -92,7 +92,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 
 <!-- PROFESSIONAL EXPERIENCE -->
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;🔧&nbsp;<h3>Professional Experience</h3>&nbsp;🔧</summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔧&nbsp;<h3>Professional Experience</h3>&nbsp;🔧</summary>
 
 <img width="100" align="left" src="https://media-exp1.licdn.com/dms/image/C560BAQExMLSWu8uaLQ/company-logo_200_200/0/1656677699986?e=1666224000&v=beta&t=C-nEDAXmDy3bQ9HikgFytEzp8S0BkiIvuZjfcR6qr0I">
 <p>
