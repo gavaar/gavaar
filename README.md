@@ -104,7 +104,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
     </p>
-    <p>Learning and growing!</p>
+    <p>Learning and growing! Very excited about this new position :)! We'll see how it goes</p>
 </p>
 
 <hr/>
@@ -120,7 +120,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg'>&nbsp;
     </p>
-    <p>Tried to help improving here and there with things like virtual scrolls (IntersectionObserver API), custom state management. One of the best teams I've worked with, and a place where I could learn and put a lot of my knowledge to the table.</p>
+    <p>Tried to help improving here-and-there with things like virtual scrolls (IntersectionObserver API), custom state management, map implementations, etc. Tried to provide from what I've learned. It's one of the best and most fun teams I've worked with and a place where I could learn about lacking aspects in my career, while also being very valued for what I could bring to the table.</p>
 </p>
 
 <hr/>
@@ -135,7 +135,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
     </p>
-    <p>One of the best teams in which I could develop my skills. Amazing PO / Lead, amazing relationship with the interested parties (Equifax, in this case), and a lot of responsibility give to someone (me) willing to go the extra distance for the sake of learning. I did learn a lot and I think we both ended up valuing our relationship a lot. I still think this has been of the most supportive environments in which to develop myself</p>
+    <p>One of the best teams in which I could develop my skills. Amazing PO and relationship with the interested parties (Equifax, in this case). A lot of responsibility give to someone (me) willing to go the extra distance for the sake of learning. I did learn a lot and I hope we both ended up valuing the work we did here. One of the most supportive environments in which to learn.</p>
 </p>
 
 <hr/>
