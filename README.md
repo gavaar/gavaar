@@ -127,7 +127,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 
 <img width="100" align="left" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFxRsyWJO_h5w/company-logo_200_200/0/1656914285439?e=1666828800&v=beta&t=fDToN1fJsT-KLn6EdMHHYHza96WZPpLmayZEEmpUuXw">
 <p>
-    <strong><a href="https://ibermatica.com/">Ibermatica (Dec 2018 - Jun 2019)</strong>
+    <strong><a href="https://ibermatica.com/">Ibermatica</a> (Dec 2018 - Jun 2019)</strong>
     <p>
         &nbsp;&nbsp;&nbsp;&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>&nbsp;
