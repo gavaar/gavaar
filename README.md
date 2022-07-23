@@ -157,13 +157,13 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 
 ## And hey!!, thanks for reading! :)
 <p align="center">
-    <a href="https://www.linkedin.com/in/oxspit/">
+    <a href="https://www.linkedin.com/in/oxspit/" target="_blank">
         <img src="./assets/linkedin.png" height="48" alt="Follow Gavaar on LinkedIn" title="Follow Gavaar on LinkedIn"/>
     </a>
-    <a href="https://www.linkedin.com/in/oxspit/">
+    <a href="https://www.linkedin.com/in/oxspit/" target="_blank">
         <img src="./assets/twitter.svg" height="48" alt="Follow Gavaar on Twitter" title="Follow Gavaar on Twitter"/>
     </a>
-    <a href="https://www.instagram.com/oxspit/">
+    <a href="https://www.instagram.com/oxspit/" target="_blank">
         <img src="./assets/instagram.svg" height="48" alt="Follow Gavaar on Instagram" title="Follow Gavaar on Instagram"/>
     </a>
     <a href="mailto:gavaar@gmail.com">
