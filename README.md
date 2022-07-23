@@ -134,8 +134,6 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
-        <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg'>&nbsp;
-        <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg'>&nbsp;
     </p>
     <p>One of the best teams in which I could develop my skills. Amazing PO / Lead, amazing relationship with the interested parties (Equifax, in this case), and a lot of responsibility give to someone (me) willing to go the extra distance for the sake of learning. I did learn a lot and I think we both ended up valuing our relationship a lot. I still think this has been of the most supportive environments in which to develop myself</p>
 </p>
