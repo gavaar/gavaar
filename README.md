@@ -19,7 +19,7 @@ I'm a web developer who went crazy and changed his career a few years ago. Now, 
 ## About me
 
 <p align="center">
-    <img src="./assets/me_sitting.jpg">
+    <img src="./assets/me_holding_a_random_bottle.jpg">
 </p>
 
 > No pain au chocolat, no gain au chocolat
