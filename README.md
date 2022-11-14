@@ -18,8 +18,8 @@ I'm a web developer who went crazy and changed his career a few years ago. Now, 
 
 ## About me
 
-<p align="center">
-    <img src="./assets/me_holding_a_random_bottle.jpg">
+<p align="center" width="320">
+    <img src="./assets/me.jpg">
 </p>
 
 > No pain au chocolat, no gain au chocolat
@@ -94,7 +94,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 <details>
 <summary><h3>🔧&nbsp;Where I've worked&nbsp;🔧</h3></summary>
 
-<img width="100" align="left" src="https://media-exp1.licdn.com/dms/image/C560BAQExMLSWu8uaLQ/company-logo_200_200/0/1656677699986?e=1666224000&v=beta&t=C-nEDAXmDy3bQ9HikgFytEzp8S0BkiIvuZjfcR6qr0I">
+<img width="100" align="left" src="./assets/dynatrace.jpg">
 <p>
     <strong><a href="https://www.dynatrace.com/">Dynatrace</a> (Jul 2022 - Curent)</strong>
     <p>
@@ -108,7 +108,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 </p>
 
 <hr/>
-<img width="100" align="left" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEhRedsZaUuIw/company-logo_200_200/0/1625217514823?e=1666224000&v=beta&t=b8M63sdwDw0JQSzI5dIvDoFletMWgvBbpWZ9CCnqddI">
+<img width="100" align="left" src="./assets/platform161.jpg">
 <p>
     <strong><a href="https://platform161.com/">Platform161 (Verve-DSP)</a> (Jul 2019 - Jun 2022)</strong>
     <p>
@@ -125,7 +125,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 
 <hr/>
 
-<img width="100" align="left" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFxRsyWJO_h5w/company-logo_200_200/0/1656914285439?e=1666828800&v=beta&t=fDToN1fJsT-KLn6EdMHHYHza96WZPpLmayZEEmpUuXw">
+<img width="100" align="left" src="./assets/ibermatica.png">
 <p>
     <strong><a href="https://ibermatica.com/">Ibermatica</a> (Dec 2018 - Jun 2019)</strong>
     <p>
@@ -140,7 +140,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 
 <hr/>
 
-<img width="100" align="left" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEH_w86zZeZBQ/company-logo_200_200/0/1610473843797?e=1666828800&v=beta&t=RG4wIGhC1OByePhhV6Rd7nUNb-xK3eKDgYs9lXQuun4">
+<img width="100" align="left" src="./assets/voiping.jpg">
 <p>
     <strong><a href="https://voiping.es/">Voiping US</a> (Jul 2018 - Dec 2018)</strong>
     <p>
