@@ -94,9 +94,9 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 <details>
 <summary><h3>🔧&nbsp;Where I've worked&nbsp;🔧</h3></summary>
 
-<img width="100" align="left" src="./assets/dynatrace.jpg">
+<img width="100" align="left" src="./assets/rubiconmd.jpg">
 <p>
-    <strong><a href="https://www.dynatrace.com/">Dynatrace</a> (Jul 2022 - Curent)</strong>
+    <strong><a href="https://www.rubiconmd.com/">RubiconMd</a> (Dec 2022 - Curent)</strong>
     <p>
         &nbsp;&nbsp;&nbsp;&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>&nbsp;
@@ -104,7 +104,22 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
     </p>
-    <p>Learning and growing! Very excited about this new position :)! We'll see how it goes</p>
+    <p>Living and learning!</p>
+</p>
+
+<hr/>
+<img width="100" align="left" src="./assets/dynatrace.jpg">
+<p>
+    <strong><a href="https://www.dynatrace.com/">Dynatrace</a> (Jul 2022 - Nov 2022)</strong>
+    <p>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>&nbsp;
+        <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>&nbsp;
+        <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
+        <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
+        <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>&nbsp;
+    </p>
+    <p>Tried to use my knowledge in the little aspects in which I could help. I changed to a Team in which React was the main tool, so I grew in React and D3 as well.</p>
 </p>
 
 <hr/>
