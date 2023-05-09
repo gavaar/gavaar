@@ -37,6 +37,9 @@ After I got my head wrapped around the idea of having to learn to code. I went i
 
 I learned <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'> HTML, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'> CSS, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> Javascript
 , <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'> Typescript, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'> Express, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> Angular and some <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'> Node in a very basic level before landing my first professional job.
+
+[Here's a brief story on how I learned all of this at the time](https://github.com/gavaar/how_i_learned_to_code)
+
 </details>
 
 <!-- PSYCHOLOGY -->
