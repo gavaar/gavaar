@@ -51,7 +51,7 @@ Even though I did not enjoy the professional aspects of Psychology, I did really
 <!-- NUTRITION / FITNESS -->
 <details>
 <summary><h3>🏋️&nbsp;Nutrition / Fitness&nbsp;🏋️</h3></summary>
-This is another area in which I did not think I'd end up diving into. I started learning about this for the wrong purposes (trying to look better, etc). But down the road have learned a lot about nutrition, exercising, the ways muscles develop in different areas (energy / mechanical), and how eating one thing or another affects your ability to deliver in other very-unrelated areas. Glycemic index / Insulin response / Fasting, etc. As the day of this writing: I'm trying to live a life with a <a href="https://en.wikipedia.org/wiki/Low-carbohydrate_diet">low-carb diet</a> (it's not a 0-carb diet though), and a heavy focus on strength-training (meaning, getting them muscles harder, not bigger).
+This is another area in which I did not think I'd end up diving into. I started learning about this for the wrong purposes (trying to look better, etc). But down the road have learned a lot about nutrition, exercising, the ways muscles develop in different areas (energy / mechanical), and how eating one thing or another affects your ability to deliver in other very-unrelated areas. Glycemic index / Insulin response / Fasting, etc. As the day of this writing: I'm trying to live a life with a <a href="https://en.wikipedia.org/wiki/Low-carbohydrate_diet">low-carb diet</a> (it's not a 0-carb though), and a heavy focus on strength-training (meaning, focusing on harder rather than bigger muscles).
 </details>
 
 <!-- GAMING -->
