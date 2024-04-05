@@ -1,12 +1,14 @@
 # Gavaar
 
-<img src="./assets/header.png">
+<img src="https://gavaar-blog.web.app/assets/images/bg_url.png">
+
+> <small>*I do not own this image, it was taken from [here](https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/)*</small>
 
 ## Summary
 
-I'm a web developer who went crazy and changed his career a few years ago. Now, I have become really passionate about the Javascript and Typescript world, having worked with different technologies on professional companies as well as stupid (and some not-as-much) personal projects.
+I'm a web developer, and I feel I am lucky that what I do is also something I find fun to do.
 
-## Some stats about me
+## Some random stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavaar&layout=compact"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar&count_private=true&show_icons=true&theme=gotham"></p>
 <p align="center"><img src="https://stackoverflow-card.vercel.app/?userID=10121165&theme=stackoverflow-dark">
@@ -14,25 +16,22 @@ I'm a web developer who went crazy and changed his career a few years ago. Now, 
 <hr>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=gavaar&theme=discord"></p>
 
-> <small>*Do note these stats do not include current workload, as those commits are hosted somewhere else*</small>
+> <small>*Do note these stats mean nothing, and most people don't care*</small>
 
 ## About me
+> No pain au chocolat, no gain au chocolat - Someone, somewhere.
 
-<p align="center" width="320">
-    <img src="./assets/me.jpg">
-</p>
+I studied (and graduated) Psychology with a specialization in Behavioral Sciences - as unrelated as it gets.
 
-> No pain au chocolat, no gain au chocolat
+Worked a little bit as student with clinical patients and autism patients, but failed to find passion in clinical work sadly, I felt a little of abstract problem-solving was missing.
 
-I'm a nerd on various subjects. I studied (and graduated) Psychology with a specialization in Behavioral Sciences. Worked a little bit as student in several areas, but I didn't find passion in clinical work, I required a little bit more of abstract problem-solving.
+After moving to Spain, I decided to jump deep into developing coding skills. And a few years later ~~I still suck~~, here I am, with a newfound skill that thankfully became my career.
 
-After moving to Spain, I decided to jump deep into learning development. And a few years later, here I am, a web developer that found joy in crashing his head against code problems!
-
-Some random info about me:
+_More_ random info about me:
 
 <!-- WEB DEVELOPMENT -->
 <details>
-<summary><h3>👨‍💻&nbsp;Web Development&nbsp;👨‍💻</h3></summary>
+<summary><span>👨‍💻&nbsp;Web Dev</span></summary>
 After I got my head wrapped around the idea of having to learn to code. I went into <a href="https://codecademy.com">codecademy</a> and started doing the HTML, CSS and Javascript courses. Then I applied in coursera to a <a href="https://www.coursera.org/specializations/full-stack-mobile-app-development">MEAN stack basic initiation course</a> (Mongo, Angular, Express, Node), and started dwabbling around with my newfound knowledge in some personal projects, and later some quick freelance work, fixing components and sometimes creating new ones.
 
 I learned <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'> HTML, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'> CSS, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> Javascript
@@ -44,20 +43,34 @@ I learned <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/i
 
 <!-- PSYCHOLOGY -->
 <details>
-<summary><h3>🧠&nbsp;Psychology&nbsp;🧠</h3></summary>
-Even though I did not enjoy the professional aspects of Psychology, I did really enjoy learning about behavioral sciences and all-things related to human behavior. Human consumer behavior and human biological impulses and it's effects on psychology and sociology are things that to this day catches my interest. Currently, I'm trying to summarize all I have learned (without citing or academic-related stuff) in a single place in which I can update what I find with the latest information on Human Behavior.
+<summary><span>🧠&nbsp;Psych</span></summary>
+The biggest problem with psychology for me was its career paths. From which the only one that caught my attention was Academic research, but I'm divorced from Academia now. That was a toxic relationship.
+
+I did really enjoy learning about behavioral sciences and all-things related to human behavior. Human consumer behavior and human biological impulses and it's effects on psychology and sociology are things that to this day catches my interest and was the basis for my dissertation to opt for a degree.
+
+Currently, I'm trying to summarize all I have learned (no citing or academic-related stuff) in a single place.
 </details>
 
 <!-- NUTRITION / FITNESS -->
 <details>
-<summary><h3>🏋️&nbsp;Nutrition / Fitness&nbsp;🏋️</h3></summary>
-This is another area in which I did not think I'd end up diving into. I started learning about this for the wrong purposes (trying to look better, etc). But down the road have learned a lot about nutrition, exercising, the ways muscles develop in different areas (energy / mechanical), and how eating one thing or another affects your ability to deliver in other very-unrelated areas. Glycemic index / Insulin response / Fasting, etc. As the day of this writing: I'm trying to live a life with a <a href="https://en.wikipedia.org/wiki/Low-carbohydrate_diet">low-carb diet</a> (it's not a 0-carb though), and a heavy focus on strength-training (meaning, focusing on harder rather than bigger muscles).
+<summary><span>🏋️&nbsp;Nutrition / Fitness</span></summary>
+This is another area in which I did not think I'd end up diving into... aaand here we are.
+
+I've used myself as my own control group. Have tried keto diets, low-carbs, no-sugar, no-coffee, full-coffee, clycemic index control, etc. I am somehow still alive. I'm also an idiot, don't learn about this stuff from me.
+
+Started learning about this to try to look good. It shifted into me trying to get my body to be as stoic as possible for the longest time possible. We're all gonna die anyways, so let's just maximize that time in here.
+
+Currently trying some type of [low-carb diet](https://en.wikipedia.org/wiki/Low-carbohydrate_diet) and focusing on strength training (akin to [powerlifting](https://en.wikipedia.org/wiki/Powerlifting) but not quite). Rather live strong than die weak.
 </details>
 
 <!-- GAMING -->
 <details>
-<summary><h3>🎮&nbsp;Gaming&nbsp;🎮</h3></summary>
-I have played games since I have memory. This is all my dad's fault. Also, I do think games helped me develop my cognitive abilities so I think I will be gaming until I die. In this sense: at the time of this writing, you cand find me playing stuff like Stardew Valley, Dota2, Age of Empires IV, Elden Ring, and what not.
+<summary><span>🎮&nbsp;Gaming</span></summary>
+I have played games since I have memory. This is all my dad's fault (I thank him for it).
+
+I attribute a lot of my cognitive abilities to video games, so I think I will be gaming until I die. Nonetheless, games that do not take you to any mental limit or are not enterntaining, are a waste of time (at least for me).
+
+Here's what I've been playing. Do judge me, I know:
 
 <p align="center">
     <a href="https://steamcommunity.com/id/oxspit/" target="_blank"><img src="https://steamcard.vercel.app/card/76561198046962759/en,badge,group" alt="76561198046962759"/></a>
@@ -66,9 +79,9 @@ I have played games since I have memory. This is all my dad's fault. Also, I do 
 
 <!-- MUSIC -->
 <details>
-<summary><h3>🎶&nbsp;Music taste&nbsp;🎶</h3></summary>
+<summary><span>🎶&nbsp;Music</span></summary>
 
-Lately I've been going crazy about festivals. So, if possible, I'd like to attend as many as I can in the coming years. Here's some of the things I've been listening to:
+If you limit your music to what you've always liked, you're missing on a lot of things you have never given the change to enjoy. With that in mind, here's some of my latest stuff:
 
 <p align="center">
     <a href="https://open.spotify.com/user/22f7dtvpctgyabn5z2vlunwty?si=6c09e6e003bf440e"><img src="https://spotify-recently-played-readme.vercel.app/api?user=22f7dtvpctgyabn5z2vlunwty&unique=true&count=5&width=700"></a>
@@ -77,7 +90,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 
 <!-- EDUCATION -->
 <details>
-<summary><h3>📚&nbsp;Where I've learned&nbsp;📚</h3></summary>
+<summary><span>📚&nbsp;Where I've learned</span></summary>
 
 <img width="100" align="left" src="./assets/ucv.png">
 <p>
@@ -95,7 +108,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 
 <!-- PROFESSIONAL EXPERIENCE -->
 <details>
-<summary><h3>🔧&nbsp;Where I've worked&nbsp;🔧</h3></summary>
+<summary><span>🔧&nbsp;Where I've worked</span></summary>
 
 <img width="100" align="left" src="./assets/rubiconmd.jpg">
 <p>
@@ -173,7 +186,7 @@ Lately I've been going crazy about festivals. So, if possible, I'd like to atten
 
 </details>
 
-## And hey!!, thanks for reading! :)
+## You read a lot :)
 <p align="center">
     <a href="https://www.linkedin.com/in/oxspit/" target="_blank">
         <img src="./assets/linkedin.png" height="48" alt="Follow Gavaar on LinkedIn" title="Follow Gavaar on LinkedIn"/>
