@@ -23,16 +23,16 @@ I'm a web developer, and I feel I am lucky that what I do is also something I fi
 
 I studied (and graduated) Psychology with a specialization in Behavioral Sciences - as unrelated as it gets.
 
-Worked a little bit as student with clinical patients and autism patients, but failed to find passion in clinical work sadly, I felt a little of abstract problem-solving was missing.
+Worked a little bit as student with clinical patients, cancer patients and autism patients, but sadly failed to find passion in clinical work. I felt a little of abstract problem-solving was missing for me.
 
-After moving to Spain, I decided to jump deep into developing coding skills. And a few years later ~~I still suck~~, here I am, with a newfound skill that thankfully became my career.
+After moving to Spain, I decided to jump deep into developing coding skills. And a few years later ~~I still suck~~, here I am, with a new skill that thankfully became my career.
 
 _More_ random info about me:
 
 <!-- WEB DEVELOPMENT -->
 <details>
 <summary><span>👨‍💻&nbsp;Web Dev</span></summary>
-After I got my head wrapped around the idea of having to learn to code. I went into <a href="https://codecademy.com">codecademy</a> and started doing the HTML, CSS and Javascript courses. Then I applied in coursera to a <a href="https://www.coursera.org/specializations/full-stack-mobile-app-development">MEAN stack basic initiation course</a> (Mongo, Angular, Express, Node), and started dwabbling around with my newfound knowledge in some personal projects, and later some quick freelance work, fixing components and sometimes creating new ones.
+After I got my head wrapped around the idea of having to learn to code. I went into <a href="https://codecademy.com">codecademy</a> and started doing the HTML, CSS and Javascript courses. Then I applied in coursera to a <a href="https://www.coursera.org/specializations/full-stack-mobile-app-development">MEAN stack basic initiation course</a> (Mongo, Angular, Express, Node), and started dabbling around with my newfound knowledge in some personal projects; later some quick freelance work, fixing components and sometimes creating new ones.
 
 I learned <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'> HTML, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'> CSS, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> Javascript
 , <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'> Typescript, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'> Express, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> Angular and some <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'> Node in a very basic level before landing my first professional job.
@@ -46,9 +46,9 @@ I learned <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/i
 <summary><span>🧠&nbsp;Psych</span></summary>
 The biggest problem with psychology for me was its career paths. From which the only one that caught my attention was Academic research, but I'm divorced from Academia now. That was a toxic relationship.
 
-I did really enjoy learning about behavioral sciences and all-things related to human behavior. Human consumer behavior and human biological impulses and it's effects on psychology and sociology are things that to this day catches my interest and was the basis for my dissertation to opt for a degree.
+I did really enjoy learning about behavioral sciences and all-things related to human behavior. Human consumer behavior and human biological impulses and it's effects on psychology and sociology are things that to this day catches my interest and was the basis for my dissertation to opt for the degree.
 
-Currently, I'm trying to summarize all I have learned (no citing or academic-related stuff) in a single place.
+I'm trying to summarize all I have learned in a single place.
 </details>
 
 <!-- NUTRITION / FITNESS -->
@@ -56,9 +56,9 @@ Currently, I'm trying to summarize all I have learned (no citing or academic-rel
 <summary><span>🏋️&nbsp;Nutrition / Fitness</span></summary>
 This is another area in which I did not think I'd end up diving into... aaand here we are.
 
-I've used myself as my own control group. Have tried keto diets, low-carbs, no-sugar, no-coffee, full-coffee, clycemic index control, etc. I am somehow still alive. I'm also an idiot, don't learn about this stuff from me.
+I've used myself as my own control group. Have tried keto diets, low-carbs, no-sugar, no-coffee, full-coffee, controlling glycemic index, etc. I am somehow still alive. I'm also an idiot, don't do this at home.
 
-Started learning about this to try to look good. It shifted into me trying to get my body to be as stoic as possible for the longest time possible. We're all gonna die anyways, so let's just maximize that time in here.
+Started learning about for aesthetics. It shifted into me trying to get my body to be as stoic as possible for the longest time possible. We're all gonna die anyways, so let's just maximize that time in here.
 
 Currently trying some type of [low-carb diet](https://en.wikipedia.org/wiki/Low-carbohydrate_diet) and focusing on strength training (akin to [powerlifting](https://en.wikipedia.org/wiki/Powerlifting) but not quite). Rather live strong than die weak.
 </details>
@@ -66,11 +66,11 @@ Currently trying some type of [low-carb diet](https://en.wikipedia.org/wiki/Low-
 <!-- GAMING -->
 <details>
 <summary><span>🎮&nbsp;Gaming</span></summary>
-I have played games since I have memory. This is all my dad's fault (I thank him for it).
+I have played games since I have memory. This is all my dad's fault (I thank him for it!).
 
-I attribute a lot of my cognitive abilities to video games, so I think I will be gaming until I die. Nonetheless, games that do not take you to any mental limit or are not enterntaining, are a waste of time (at least for me).
+I attribute some of my abilities to video games, so I think I will be gaming until I die. Nonetheless, games that do not take me to any mental limit or are not enterntaining, feel like a waste of time (at least for me).
 
-Here's what I've been playing. Do judge me, I know:
+Here's what I've been playing lately. Do judge me:
 
 <p align="center">
     <a href="https://steamcommunity.com/id/oxspit/" target="_blank"><img src="https://steamcard.vercel.app/card/76561198046962759/en,badge,group" alt="76561198046962759"/></a>
@@ -81,7 +81,7 @@ Here's what I've been playing. Do judge me, I know:
 <details>
 <summary><span>🎶&nbsp;Music</span></summary>
 
-If you limit your music to what you've always liked, you're missing on a lot of things you have never given the change to enjoy. With that in mind, here's some of my latest stuff:
+If I limit my music to what I've always liked, I'd be missing on a lot of great things I have never given the chance to enjoy. If you're reading this just send me a song suggestion, I'll hear it.
 
 <p align="center">
     <a href="https://open.spotify.com/user/22f7dtvpctgyabn5z2vlunwty?si=6c09e6e003bf440e"><img src="https://spotify-recently-played-readme.vercel.app/api?user=22f7dtvpctgyabn5z2vlunwty&unique=true&count=5&width=700"></a>
@@ -108,7 +108,7 @@ If you limit your music to what you've always liked, you're missing on a lot of 
 
 <!-- PROFESSIONAL EXPERIENCE -->
 <details>
-<summary><span>🔧&nbsp;Where I've worked</span></summary>
+<summary><span cursor="pointer">🔧&nbsp;Where I've worked</span></summary>
 
 <img width="100" align="left" src="./assets/rubiconmd.jpg">
 <p>
@@ -120,7 +120,7 @@ If you limit your music to what you've always liked, you're missing on a lot of 
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
     </p>
-    <p>Living and learning!</p>
+    <p>Living and learning...</p>
 </p>
 
 <hr/>
