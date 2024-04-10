@@ -1,6 +1,6 @@
 # Gavaar
 
-<img src="https://gavaar-blog.web.app/assets/images/bg_url.png">
+<img src="./assets/some_image.png">
 
 > <small>*I do not own this image, it was taken from [here](https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/)*</small>
 
