@@ -191,9 +191,6 @@ If I limit my music to what I've always liked, I'd be missing on a lot of great 
     <a href="https://www.linkedin.com/in/oxspit/" target="_blank">
         <img src="./assets/linkedin.png" height="48" alt="Follow Gavaar on LinkedIn" title="Follow Gavaar on LinkedIn"/>
     </a>
-    <a href="https://www.linkedin.com/in/oxspit/" target="_blank">
-        <img src="./assets/twitter.svg" height="48" alt="Follow Gavaar on Twitter" title="Follow Gavaar on Twitter"/>
-    </a>
     <a href="https://www.instagram.com/oxspit/" target="_blank">
         <img src="./assets/instagram.svg" height="48" alt="Follow Gavaar on Instagram" title="Follow Gavaar on Instagram"/>
     </a>
