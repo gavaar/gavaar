@@ -2,13 +2,31 @@
 
 <img src="./assets/some_image.png">
 
-> <small>*I do not own this image, it was taken from [here](https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/)*</small>
+> <small>*I do not own this image, it was taken from [here](https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/)*. Adding a banner makes this seem more professional am I right?</small>
 
 ## Summary
 
-I'm a web developer, and I feel I am lucky that what I do is also something I find fun to do.
+Around 6 years of developer experience. Mostly with <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> Angular, with some React, Ruby on Rails and Java in the mix.
 
-## Some random stats
+I've done <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg
+'>Rust on my free time. Cuz I'm insane.
+
+---
+
+Studied Psychology with an emphasis on Behavioral Analysis, and a dissertation on Consumer Psychology.
+
+Now I'm a web developer, and I feel I am lucky that what I do is also something I find fun to do.
+
+Learned through Codecademy and Coursera.
+
+Then found amazing tutors when working as a Junior. I'll be forever grateful to them.
+Everything I do has a little of their teachings in them. Is kind of a way of being thankful.
+
+After, I moved a project forward solo, which taught me a lot.
+
+Ever since, I've nonstop learnt and challenged myself.
+
+## Internet brownie-point stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavaar&layout=compact"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar&count_private=true&show_icons=true&theme=gotham"></p>
 <p align="center"><img src="https://stackoverflow-card.vercel.app/?userID=10121165&theme=stackoverflow-dark">
@@ -16,35 +34,73 @@ I'm a web developer, and I feel I am lucky that what I do is also something I fi
 <hr>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=gavaar&theme=discord"></p>
 
-> <small>*Do note these stats mean nothing, and most people don't care*</small>
+> <small>*I know these stats mean nothing, and most people don't care; but who doesn't love some stats*</small>
+
+## Some things I've done that make me proud:
+**Work related**
+- Reworked features of an app to work declaratively for easier maintenance (declarative > imperative)
+  - I actually enjoy doing this. So I've done it a few times.
+- Dusted geometry to do some calculations for positioning texts, and setting widths, on dynamic charts.
+- Created a class that selected files (in-app) similar to how OS do it (holding shift selects all those in between current selection and the one clicked. Holding control toggles the selection of a single one, etc).
+- Implemented a map library with an API to offer physical ad billboards to clients.
+- Broke down a script which handled GDPR Cookies modal which was about ~500 lines long in a single JS file and was hard to reason about (Separated concerns, reused repeated logic, reduced amount of duplicated config declarations, etc.).
+- Was given the full responsability of remaking the Front-end for a product of Equifax (an American loan-tracking app). And was praised on the outcome, which was nice at the time for the experience I had.
+- Used Nativescript for a multi-platform app! (would now use Flutter though).
+- This github readme 😁.
+
+**Personal stuff that highlights I'm a nerd**
+- [Advent of Code 2023](https://github.com/gavaar/aoc_2023). I actually did almost all of the days (in Rust, to learn the language a bit). It was fun. I'll attempt a full completion in 2024.
+- Created a profit-calculator to save time in a video game (I know). It included calling the API of the game's Auction House, and checking prices for materials, goods and selling taxes, to calculate the profitability of selling said thing for the day. Honestly it was a cool [personal project](https://github.com/gavaar/wow-boneshatter).
+- Gym tracking app. I was doing a type of training in which weights went up after a series of conditions met on previous trainings. So I created an app that would do that for me automatically (currently offline, as I plan to redo it, but here's [the repo](https://github.com/gavaar/gym_periodization)).
+- A script to check unfollowers on instagram. It's private because I believe it's against instagrams TOS to have this public. But I'm using their own endpoints and website so.. all fair.
+- Created a chat feature using websockets for an app in a personal project.
+- This [No Man's Sky script](https://github.com/gavaar/nms-stew-giver) to auto click.. I'm lazy.
+- Played [screeps](https://github.com/gavaar/screeps) at one point.
+- Created a header that animates while collapsing / expanding. It's silly but fun, can be seen [here](https://gavaar-blog.web.app/enk/non_zero_days) (personal blog-ish website).
+- Previously mentioned personal blog-ish website.
 
 ## About me
 > No pain au chocolat, no gain au chocolat - Someone, somewhere.
 
-I studied (and graduated) Psychology with a specialization in Behavioral Sciences - as unrelated as it gets.
+I studied Psychology at UCV (Universidad Central de Venezuela, which by the way is the best university in the world<sup>[1]</sup>).
+I graduated with a specialization in Behavioral Sciences and disertation in Consumer Psychology.
+Very fun stuff.
+I'd summarize that knowledge into: how people gets programmed into their habits and misbehaviors.
 
-Worked a little bit as student with clinical patients, cancer patients and autism patients, but sadly failed to find passion in clinical work. I felt a little of abstract problem-solving was missing for me.
+Nonetheless, that degree (emphasis: the degree. NOT the knowledge) is now useless to me.
 
-After moving to Spain, I decided to jump deep into developing coding skills. And a few years later ~~I still suck~~, here I am, with a new skill that thankfully became my career.
+I moved into Spain and looked into ratifying said degree.
+I quickly discovered it was a daunting and expensive goal.
+Plus I did not really find joy in the role of a Clinical Psychologist — nothing against it, it just wasn't for me.
 
-_More_ random info about me:
+So I had to choose between investing time, money and effort into a career which I loved but didn't find fulfilling or...
+not do that at all and improvise. And I did the latter. Fuck my degree.
+
+I knew I could enjoy the development world so I decided to go and learn HTML, CSS & Javascript.
+At first I sucked at it and got very frustrated.
+Now I don't get frustrated.
+Eventually this became my career, and am currently working as a Front-End Developer.
+
+<small>1. Source: my biased opinion</small>
+
+## _More_ random info about me:
 
 <!-- WEB DEVELOPMENT -->
 <details>
 <summary><span>👨‍💻&nbsp;Web Dev</span></summary>
-After I got my head wrapped around the idea of having to learn to code. I went into <a href="https://codecademy.com">codecademy</a> and started doing the HTML, CSS and Javascript courses. Then I applied in coursera to a <a href="https://www.coursera.org/specializations/full-stack-mobile-app-development">MEAN stack basic initiation course</a> (Mongo, Angular, Express, Node), and started dabbling around with my newfound knowledge in some personal projects; later some quick freelance work, fixing components and sometimes creating new ones.
+After I got my head wrapped around the idea of having to learn to code. I went into <a href="https://codecademy.com">codecademy</a> and started doing the HTML, CSS and Javascript courses. Then I applied in coursera to a MEAN stack basic initiation course (Mongo, Angular, Express, Node)<sup>[2]</sup>, and started messing around with my what I learned in some ideas; later some quick freelance work, fixing components and sometimes creating new ones.
 
 I learned <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'> HTML, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'> CSS, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> Javascript
 , <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'> Typescript, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'> Express, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> Angular and some <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'> Node in a very basic level before landing my first professional job.
 
-[Here's a brief story on how I learned all of this at the time](https://github.com/gavaar/how_i_learned_to_code)
+<small>2. No longer available :(</small>
 
 </details>
 
 <!-- PSYCHOLOGY -->
 <details>
 <summary><span>🧠&nbsp;Psych</span></summary>
-The biggest problem with psychology for me was its career paths. From which the only one that caught my attention was Academic research, but I'm divorced from Academia now. That was a toxic relationship.
+The biggest problem with psychology for me was its career paths. From which the only one that caught my attention was Academic research, but I'm divorced from Academia now. It was a toxic relationship.
 
 I did really enjoy learning about behavioral sciences and all-things related to human behavior. Human consumer behavior and human biological impulses and it's effects on psychology and sociology are things that to this day catches my interest and was the basis for my dissertation to opt for the degree.
 
@@ -181,12 +237,12 @@ If I limit my music to what I've always liked, I'd be missing on a lot of great 
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
     </p>
-    <p>First developer job in Spain!. Very grateful with my former Tech Lead, thanks to him and the team I dived into I had one of the bests starts I could ask for in this world.</p>
+    <p>First developer job in Spain!. Very grateful with my former Tech Lead, thanks to them and the team I joined I had one of the bests kickoffs I could ever ask for.</p>
 </p>
 
 </details>
 
-## You read a lot :)
+## Thanks for reading :)
 <p align="center">
     <a href="https://www.linkedin.com/in/oxspit/" target="_blank">
         <img src="./assets/linkedin.png" height="48" alt="Follow Gavaar on LinkedIn" title="Follow Gavaar on LinkedIn"/>
