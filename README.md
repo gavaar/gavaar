@@ -6,10 +6,9 @@
 
 ## Summary
 
-Around 6 years of developer experience. Mostly with <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> Angular, with some React, Ruby on Rails and Java in the mix.
+Programming since 2018. Mostly with <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> Angular, with addition to React, Ruby on Rails, Rust and Java in the mix.
 
-I've done <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg
-'>Rust on my free time. Cuz I'm insane.
+I'm inclining a lot towards <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg'>Rust on my free time. I believe this to be the future.
 
 ---
 
