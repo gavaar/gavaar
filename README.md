@@ -26,12 +26,24 @@ After, I moved a project forward solo, which taught me a lot.
 Ever since, I've nonstop learnt and challenged myself.
 
 ## Internet brownie-point stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavaar&layout=compact"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar&count_private=true&show_icons=true&theme=gotham"></p>
-<p align="center"><img src="https://stackoverflow-card.vercel.app/?userID=10121165&theme=stackoverflow-dark">
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar&count_private=true&show_icons=true&theme=gotham"></p> -->
+<p align="center">
+    <a href="https://github.com/nschloe/stackoverflow-card" target="_blank">
+        <img src="https://stackoverflow-card.vercel.app/?userID=10121165&theme=stackoverflow-dark">
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+        <img src="https://streak-stats.demolab.com/?user=gavaar&hide_border=true&theme=github-dark">
+    </a>
 </p>
 <hr>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=gavaar&theme=discord"></p>
+<p align="center">
+    <a href="https://github.com/brunobritodev/awesome-github-stats" target="_blank">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/gavaar?cardType=level&theme=blueberry&fontFamily=Geist&preferLogin=false&Border=00000000">
+    </a>
+</p>
 
 > <small>*I know these stats mean nothing, and most people don't care; but who doesn't love some stats*</small>
 
