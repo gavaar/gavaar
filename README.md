@@ -2,7 +2,7 @@
 
 <img src="./assets/some_image.png">
 
-> <small>*I do not own this image, it was taken from [here](https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/)*. Adding a banner makes this seem more professional am I right?</small>
+> <small>*I do not own this image, it was taken from [here](https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/)*.<br>Banner added for extra impact.</small>
 
 ## Summary
 
@@ -25,7 +25,7 @@ After, I moved a project forward solo, which taught me a lot.
 
 Ever since, I've nonstop learnt and challenged myself.
 
-## Internet brownie-point stats
+## Internet brownie-points
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar&count_private=true&show_icons=true&theme=gotham"></p> -->
 <p align="center">
