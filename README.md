@@ -2,28 +2,31 @@
 
 <img src="./assets/some_image.png">
 
-> <small>*I do not own this image, it was taken from [here](https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/)*.<br>Banner added for extra impact.</small>
+> <small>*Image taken from [here](https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/)*.</small>
 
 ## Summary
 
-Programming since 2018. Mostly with <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> Angular, with addition to React, Ruby on Rails, Rust and Java in the mix.
-
-I'm inclining a lot towards <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg'>Rust on my free time. I believe this to be the future.
+Programming since 2018. Mostly with 
+<img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> 
+Angular,
+<img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
+React, 
+<img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg'>
+Rails, 
+<img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg'>
+Rust in the mix.
+Currently interested in studying <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg'>Rust in my free time.
 
 ---
 
 Studied Psychology with an emphasis on Behavioral Analysis, and a dissertation on Consumer Psychology.
+Transitioned to a Web Developer in 2018 after moving to Spain. Learned through Codecademy and Coursera.
 
-Now I'm a web developer, and I feel I am lucky that what I do is also something I find fun to do.
+I bridge the gap between Front-End development and User Experience by mixing my knowledge in Web Development and Behavioral Sciences.
 
-Learned through Codecademy and Coursera.
+I'm thankful to everyone that has tutored me along the way in both disciplines, as I would not be here without them.
 
-Then found amazing tutors when working as a Junior. I'll be forever grateful to them.
-Everything I do has a little of their teachings in them. Is kind of a way of being thankful.
-
-After, I moved a project forward solo, which taught me a lot.
-
-Ever since, I've nonstop learnt and challenged myself.
+I thrive on challenging myself and learning. Teaching is a way of learning and keeping up to date in itself. If any of this is not happening, I feel stalled.
 
 ## Internet brownie-points
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar"></p>
