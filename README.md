@@ -4,7 +4,7 @@
 
 > <small>*Image taken from [here](https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/)*.</small>
 
-## Summary
+<!-- ## Fran -->
 
 Programming since 2018. Mostly with 
 <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> 
@@ -14,19 +14,22 @@ React,
 <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg'>
 Rails, 
 <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg'>
-Rust in the mix.
-Currently interested in studying <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg'>Rust in my free time.
+Rust in the mix.<br/>
+Currently focusing in <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg'>Rust for fun.
 
 ---
 
+I'm a Web Developer that believes the best code is written by humans.
 Studied Psychology with an emphasis on Behavioral Analysis, and a dissertation on Consumer Psychology.
-Transitioned to a Web Developer in 2018 after moving to Spain. Learned through Codecademy and Coursera.
+Transitioned to become a Developer in 2018 after moving to Spain. Learned through Codecademy and Coursera.
 
-I bridge the gap between Front-End development and User Experience by mixing my knowledge in Web Development and Behavioral Sciences.
+*I'm thankful to everyone that has tutored me along the way in both disciplines, as I would not be here without them.*
 
-I'm thankful to everyone that has tutored me along the way in both disciplines, as I would not be here without them.
+I believe to bridge the gap between Front-End development and User Experience by mixing my knowledge in Web Development and Behavioral Sciences.
+I have a growing interest in the Rust ecosystem and it's applications.
+Personal projects are mainly built with Rust / Typescript.
 
-I thrive on challenging myself and learning. Teaching is a way of learning and keeping up to date in itself. If any of this is not happening, I feel stalled.
+I like challenging myself and learning. Teaching is a way of learning and staying up to date.
 
 ## Internet brownie-points
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar"></p>
@@ -48,9 +51,7 @@ I thrive on challenging myself and learning. Teaching is a way of learning and k
     </a>
 </p>
 
-> <small>*I know these stats mean nothing, and most people don't care; but who doesn't love some stats*</small>
-
-## Some things I've done that make me proud:
+<!-- ## Some things I've done that make me proud:
 **Work related**
 - Reworked features of an app to work declaratively for easier maintenance (declarative > imperative)
   - I actually enjoy doing this. So I've done it a few times.
@@ -71,10 +72,10 @@ I thrive on challenging myself and learning. Teaching is a way of learning and k
 - This [No Man's Sky script](https://github.com/gavaar/nms-stew-giver) to auto click.. I'm lazy.
 - Played [screeps](https://github.com/gavaar/screeps) at one point.
 - Created a header that animates while collapsing / expanding. It's silly but fun, can be seen [here](https://gavaar-blog.web.app/enk/non_zero_days) (personal blog-ish website).
-- Previously mentioned personal blog-ish website.
+- Previously mentioned personal blog-ish website. -->
 
-## About me
-> No pain au chocolat, no gain au chocolat - Someone, somewhere.
+<!-- ## About me -->
+<!-- > No pain au chocolat, no gain au chocolat - Someone, somewhere.
 
 I studied Psychology at UCV (Universidad Central de Venezuela, which by the way is the best university in the world<sup>[1]</sup>).
 I graduated with a specialization in Behavioral Sciences and disertation in Consumer Psychology.
@@ -93,92 +94,17 @@ not do that at all and improvise. And I did the latter. Fuck my degree.
 I knew I could enjoy the development world so I decided to go and learn HTML, CSS & Javascript.
 At first I sucked at it and got very frustrated.
 Now I don't get frustrated.
-Eventually this became my career, and am currently working as a Front-End Developer.
+Eventually this became my career, and am currently working as a Front-End Developer. -->
 
-<small>1. Source: my biased opinion</small>
+<!-- <small>1. Source: my biased opinion</small> -->
 
-## _More_ random info about me:
+<!-- ## _More_ random info about me: -->
 
 <!-- WEB DEVELOPMENT -->
-<details>
-<summary><span>👨‍💻&nbsp;Web Dev</span></summary>
-After I got my head wrapped around the idea of having to learn to code. I went into <a href="https://codecademy.com">codecademy</a> and started doing the HTML, CSS and Javascript courses. Then I applied in coursera to a MEAN stack basic initiation course (Mongo, Angular, Express, Node)<sup>[2]</sup>, and started messing around with my what I learned in some ideas; later some quick freelance work, fixing components and sometimes creating new ones.
-
-I learned <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'> HTML, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'> CSS, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> Javascript
-, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'> Typescript, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'> Express, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> Angular and some <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'> Node in a very basic level before landing my first professional job.
-
-<small>2. No longer available :(</small>
-
-</details>
-
-<!-- PSYCHOLOGY -->
-<details>
-<summary><span>🧠&nbsp;Psych</span></summary>
-The biggest problem with psychology for me was its career paths. From which the only one that caught my attention was Academic research, but I'm divorced from Academia now. It was a toxic relationship.
-
-I did really enjoy learning about behavioral sciences and all-things related to human behavior. Human consumer behavior and human biological impulses and it's effects on psychology and sociology are things that to this day catches my interest and was the basis for my dissertation to opt for the degree.
-
-I'm trying to summarize all I have learned in a single place.
-</details>
-
-<!-- NUTRITION / FITNESS -->
-<details>
-<summary><span>🏋️&nbsp;Nutrition / Fitness</span></summary>
-This is another area in which I did not think I'd end up diving into... aaand here we are.
-
-I've used myself as my own control group. Have tried keto diets, low-carbs, no-sugar, no-coffee, full-coffee, controlling glycemic index, etc. I am somehow still alive. I'm also an idiot, don't do this at home.
-
-Started learning about for aesthetics. It shifted into me trying to get my body to be as stoic as possible for the longest time possible. We're all gonna die anyways, so let's just maximize that time in here.
-
-Currently trying some type of [low-carb diet](https://en.wikipedia.org/wiki/Low-carbohydrate_diet) and focusing on strength training (akin to [powerlifting](https://en.wikipedia.org/wiki/Powerlifting) but not quite). Rather live strong than die weak.
-</details>
-
-<!-- GAMING -->
-<details>
-<summary><span>🎮&nbsp;Gaming</span></summary>
-I have played games since I have memory. This is all my dad's fault (I thank him for it!).
-
-I attribute some of my abilities to video games, so I think I will be gaming until I die. Nonetheless, games that do not take me to any mental limit or are not enterntaining, feel like a waste of time (at least for me).
-
-Here's what I've been playing lately. Do judge me:
-
-<p align="center">
-    <a href="https://steamcommunity.com/id/oxspit/" target="_blank"><img src="https://steamcard.vercel.app/card/76561198046962759/en,badge,group" alt="76561198046962759"/></a>
-</p>
-</details>
-
-<!-- MUSIC -->
-<details>
-<summary><span>🎶&nbsp;Music</span></summary>
-
-If I limit my music to what I've always liked, I'd be missing on a lot of great things I have never given the chance to enjoy. If you're reading this just send me a song suggestion, I'll hear it.
-
-<p align="center">
-    <a href="https://open.spotify.com/user/22f7dtvpctgyabn5z2vlunwty?si=6c09e6e003bf440e"><img src="https://spotify-recently-played-readme.vercel.app/api?user=22f7dtvpctgyabn5z2vlunwty&unique=true&count=5&width=700"></a>
-</p>
-</details>
-
-<!-- EDUCATION -->
-<details>
-<summary><span>📚&nbsp;Where I've learned</span></summary>
-
-<img width="100" align="left" src="./assets/ucv.png">
-<p>
-    <strong>Bachelors in Psychology (2012-2017)</strong>
-    <p>Five year career plan, for which three correspond to general knowledge, and the last two were for the specialization of Behavioral Sciences. Including internship, social services, and a dissertation.</p>
-</p>
-<hr/>
-
-<img width="100" align="left" src="./assets/coursera_logo.png">
-<p>
-    <strong>Online Specialization on Mean Stack (Angular) (2018-2019)</strong>
-    <p>Online specialization on the Mean stack focused on Angular, given by the Hong Kong University through the Coursera platform. It included Ionic and Nativescript at the moment, but right now these techs have evolved to the point to being very user-friendly. Now they also include a React alternative on their spec.</p>
-</p>
-</details>
 
 <!-- PROFESSIONAL EXPERIENCE -->
 <details>
-<summary><span cursor="pointer">🔧&nbsp;Where I've worked</span></summary>
+<summary><span cursor="pointer">👨‍💻&nbsp;Experience</span></summary>
 
 <img width="100" align="left" src="./assets/rubiconmd.jpg">
 <p>
@@ -256,7 +182,85 @@ If I limit my music to what I've always liked, I'd be missing on a lot of great 
 
 </details>
 
-## Thanks for reading :)
+<!-- EDUCATION -->
+<details>
+<summary><span>📚&nbsp;Education</span></summary>
+
+<img width="100" align="left" src="./assets/ucv.png">
+<p>
+    <strong>Bachelors in Psychology (2012-2017)</strong>
+    <p>Five year career plan, for which three correspond to general knowledge, and the last two were for the specialization of Behavioral Sciences. Including internship, social services, and a dissertation.</p>
+</p>
+<hr/>
+
+<img width="100" align="left" src="./assets/coursera_logo.png">
+<p>
+    <strong>Online Specialization on Mean Stack (Angular) (2018-2019)</strong>
+    <p>Online specialization on the Mean stack focused on Angular, given by the Hong Kong University through the Coursera platform. It included Ionic and Nativescript at the moment, but right now these techs have evolved to the point to being very user-friendly. Now they also include a React alternative on their spec.</p>
+</p>
+</details>
+
+<details>
+<summary><span>👨‍💻&nbsp;Web Dev</span></summary>
+After I got my head wrapped around the idea of having to learn to code. I went into <a href="https://codecademy.com">codecademy</a> and started doing the HTML, CSS and Javascript courses. Then I applied in coursera to a MEAN stack basic initiation course (Mongo, Angular, Express, Node)<sup>[2]</sup>, and started messing around with my what I learned in some ideas; later some quick freelance work, fixing components and sometimes creating new ones.
+
+I learned <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'> HTML, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'> CSS, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> Javascript
+, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'> Typescript, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'> Express, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> Angular and some <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'> Node in a very basic level before landing my first professional job.
+
+<small>2. No longer available :(</small>
+
+</details>
+
+<!-- PSYCHOLOGY -->
+<details>
+<summary><span>🧠&nbsp;Psych</span></summary>
+The biggest problem with psychology for me was its career paths. From which the only one that caught my attention was Academic research, but I'm divorced from Academia now. It was a toxic relationship.
+
+I did really enjoy learning about behavioral sciences and all-things related to human behavior. Human consumer behavior and human biological impulses and it's effects on psychology and sociology are things that to this day catches my interest and was the basis for my dissertation to opt for the degree.
+
+I'm trying to summarize all I have learned in a single place.
+</details>
+
+<!-- NUTRITION / FITNESS -->
+<details>
+<summary><span>🏋️&nbsp;Nutrition / Fitness</span></summary>
+This is another area in which I did not think I'd end up diving into... aaand here we are.
+
+I've used myself as my own control group. Have tried keto diets, low-carbs, no-sugar, no-coffee, full-coffee, controlling glycemic index, etc. I am somehow still alive. I'm also an idiot, don't do this at home.
+
+Started learning about for aesthetics. It shifted into me trying to get my body to be as stoic as possible for the longest time possible. We're all gonna die anyways, so let's just maximize that time in here.
+
+Currently trying some type of [low-carb diet](https://en.wikipedia.org/wiki/Low-carbohydrate_diet) and focusing on strength training (akin to [powerlifting](https://en.wikipedia.org/wiki/Powerlifting) but not quite). Rather live strong than die weak.
+</details>
+
+<!-- GAMING -->
+<details>
+<summary><span>🎮&nbsp;Gaming</span></summary>
+I have played games since I have memory. This is all my dad's fault (I thank him for it!).
+
+I attribute some of my abilities to video games, so I think I will be gaming until I die. Nonetheless, games that do not take me to any mental limit or are not enterntaining, feel like a waste of time (at least for me).
+
+Here's what I've been playing lately. Do judge me:
+
+<p align="center">
+    <a href="https://steamcommunity.com/id/oxspit/" target="_blank"><img src="https://steamcard.vercel.app/card/76561198046962759/en,badge,group" alt="76561198046962759"/></a>
+</p>
+</details>
+
+<!-- MUSIC -->
+<details>
+<summary><span>🎶&nbsp;Music</span></summary>
+
+If I limit my music to what I've always liked, I'd be missing on a lot of great things I have never given the chance to enjoy. If you're reading this just send me a song suggestion, I'll hear it.
+
+<p align="center">
+    <a href="https://open.spotify.com/user/22f7dtvpctgyabn5z2vlunwty?si=6c09e6e003bf440e"><img src="https://spotify-recently-played-readme.vercel.app/api?user=22f7dtvpctgyabn5z2vlunwty&unique=true&count=5&width=700"></a>
+</p>
+</details>
+
+---
+---
+
 <p align="center">
     <a href="https://www.linkedin.com/in/oxspit/" target="_blank">
         <img src="./assets/linkedin.png" height="48" alt="Follow Gavaar on LinkedIn" title="Follow Gavaar on LinkedIn"/>
@@ -264,7 +268,7 @@ If I limit my music to what I've always liked, I'd be missing on a lot of great 
     <a href="https://www.instagram.com/oxspit/" target="_blank">
         <img src="./assets/instagram.svg" height="48" alt="Follow Gavaar on Instagram" title="Follow Gavaar on Instagram"/>
     </a>
-    <a href="mailto:gavaar@gmail.com">
+    <a href="mailto:oxspit@gmail.com">
         <img src="./assets/gmail.png" height="48" alt="Send Gavaar an email" title="oxspit@gmail.com">
     </a>
     <img align="right" src="https://komarev.com/ghpvc/?username=gavaar">
