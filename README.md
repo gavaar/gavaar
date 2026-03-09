@@ -110,13 +110,12 @@ Eventually this became my career, and am currently working as a Front-End Develo
 <p>
     <strong><a href="https://www.rubiconmd.com/">RubiconMd</a> (Dec 2022 - Curent)</strong>
     <p>
-        &nbsp;&nbsp;&nbsp;&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
     </p>
-    <p>Living and learning...</p>
+    <p>Architectural refactors, code reusability and removal of tech debt in a product that lived up-to-date with modern practices with the latest Angular version: removing deprecated pieces ahead of the curve, and implementing new stable features to keep a fresh product. Bootstraped a scratch idea using React-native to bring users closer to the business, rapidly gauging interest from stakeholders</p>
 </p>
 
 <hr/>
@@ -124,14 +123,13 @@ Eventually this became my career, and am currently working as a Front-End Develo
 <p>
     <strong><a href="https://www.dynatrace.com/">Dynatrace</a> (Jul 2022 - Nov 2022)</strong>
     <p>
-        &nbsp;&nbsp;&nbsp;&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>&nbsp;
     </p>
-    <p>Tried to use my knowledge in the little aspects in which I could help. I changed to a Team in which React was the main tool, so I grew in React and D3 as well.</p>
+    <p>Rapidly integrated into a new React-based team within 6 months in a period of organizational transition. Built high-performing graphs for a massive product used across the globe.</p>
 </p>
 
 <hr/>
@@ -139,7 +137,6 @@ Eventually this became my career, and am currently working as a Front-End Develo
 <p>
     <strong><a href="https://platform161.com/">Platform161 (Verve-DSP)</a> (Jul 2019 - Jun 2022)</strong>
     <p>
-        &nbsp;&nbsp;&nbsp;&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
@@ -147,7 +144,7 @@ Eventually this became my career, and am currently working as a Front-End Develo
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg'>&nbsp;
     </p>
-    <p>Tried to help improving here-and-there with things like virtual scrolls (IntersectionObserver API), custom state management, map implementations, etc. Tried to provide from what I've learned. It's one of the best and most fun teams I've worked with and a place where I could learn about lacking aspects in my career, while also being very valued for what I could bring to the table.</p>
+    <p>Strong Front-End product built with Angular and kept up-to-date with modern practices in mind, while building rails pieces on the side. Key contributor on a DSP platform which in addition to team effort led to an acquisition by the Verve Group. Complex architectural decisions and refactors were needed at times, given the complexity of the product against the demands of the market.</p>
 </p>
 
 <hr/>
@@ -156,13 +153,12 @@ Eventually this became my career, and am currently working as a Front-End Develo
 <p>
     <strong><a href="https://ibermatica.com/">Ibermatica</a> (Dec 2018 - Jun 2019)</strong>
     <p>
-        &nbsp;&nbsp;&nbsp;&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
     </p>
-    <p>One of the best teams in which I could develop my skills. Amazing PO and relationship with the interested parties (Equifax, in this case). A lot of responsibility give to someone (me) willing to go the extra distance for the sake of learning. I did learn a lot and I hope we both ended up valuing the work we did here. One of the most supportive environments in which to learn.</p>
+    <p>Given the opportunity to rebuild a Front-End from scratch by myself, took the opportunity which resulted in a successful delivery and 100% client satisfaction. Afterwards was entrusted with mentoring a Junior developer while only having a year of experience myself.</p>
 </p>
 
 <hr/>
@@ -188,14 +184,14 @@ Eventually this became my career, and am currently working as a Front-End Develo
 <img width="100" align="left" src="./assets/ucv.png">
 <p>
     <strong>Bachelors in Psychology (2012-2017)</strong>
-    <p>Five year career plan, for which three correspond to general knowledge, and the last two were for the specialization of Behavioral Sciences. Including internship, social services, and a dissertation.</p>
+    <p>Three years of general studies in psychology as foundation plus two more years specializing in Behavioral Sciences with a focus on clinical practice. Disertation built on Consumer Psychology and it's relation to interpersonal dynamics</p>
 </p>
 <hr/>
 
 <img width="100" align="left" src="./assets/coursera_logo.png">
 <p>
     <strong>Online Specialization on Mean Stack (Angular) (2018-2019)</strong>
-    <p>Online specialization on the Mean stack focused on Angular, given by the Hong Kong University through the Coursera platform. It included Ionic and Nativescript at the moment, but right now these techs have evolved to the point to being very user-friendly. Now they also include a React alternative on their spec.</p>
+    <p>Online specialization on the Mean stack focused on Angular, sponsored by the Hong Kong University through the Coursera platform. It included Angular, Ionic, Nativescript, MongoDB and Express modules at the time.</p>
 </p>
 </details>
 
