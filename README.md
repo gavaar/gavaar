@@ -19,7 +19,7 @@ Currently focusing in <img height="16px" src='https://cdn.jsdelivr.net/gh/devico
 
 ---
 
-I'm a Web Developer that believes the best code is written by humans.
+I'm a Web Developer that believes the best code is written by humans (at least for now).
 Studied Psychology with an emphasis on Behavioral Analysis, and a dissertation on Consumer Psychology.
 Transitioned to become a Developer in 2018 after moving to Spain. Learned through Codecademy and Coursera.
 
@@ -171,13 +171,12 @@ Eventually this became my career, and am currently working as a Front-End Develo
 <p>
     <strong><a href="https://voiping.es/">Voiping US</a> (Jul 2018 - Dec 2018)</strong>
     <p>
-        &nbsp;&nbsp;&nbsp;&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
     </p>
-    <p>First developer job in Spain!. Very grateful with my former Tech Lead, thanks to them and the team I joined I had one of the bests kickoffs I could ever ask for.</p>
+    <p>First hands-on experience as a web-developer. Implementation of Design principles and good programming practices. In-depth Angular since v4. CSS with flexbox and grid. Created some scripts in Typescript</p>
 </p>
 
 </details>
