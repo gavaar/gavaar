@@ -32,8 +32,7 @@ Personal projects are mainly built with Rust / Typescript.
 I like challenging myself and learning. Teaching is a way of learning and staying up to date.
 
 ## Internet brownie-points
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar&count_private=true&show_icons=true&theme=gotham"></p> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar&count_private=true&show_icons=true&theme=gotham"></p>
 <p align="center">
     <a href="https://github.com/nschloe/stackoverflow-card" target="_blank">
         <img src="https://stackoverflow-card.vercel.app/?userID=10121165&theme=stackoverflow-dark">
@@ -202,45 +201,45 @@ Eventually this became my career, and am currently working as a Front-End Develo
 
 <!-- PSYCHOLOGY -->
 <details>
-<summary><span>🧠&nbsp;Psych</span></summary>
-The biggest problem with psychology for me was its career paths. From which the only one that caught my attention was Academic research, but I'm divorced from Academia now. It was a toxic relationship.
+<summary><h3>🧠&nbsp;Psych</h3></summary>
+Interested in the discipline's application to every-day life.
+In particular how people interact with the world around them, and how can this be used for self-improvement.
 
-I did really enjoy learning about behavioral sciences and all-things related to human behavior. Human consumer behavior and human biological impulses and it's effects on psychology and sociology are things that to this day catches my interest and was the basis for my dissertation to opt for the degree.
-
-I'm trying to summarize all I have learned in a single place.
+<p align="center">
+    <img src="./assets/conquer-himself-plato.jpg" height="200px" />
+</p>
 </details>
 
 <!-- NUTRITION / FITNESS -->
 <details>
-<summary><span>🏋️&nbsp;Nutrition / Fitness</span></summary>
-This is another area in which I did not think I'd end up diving into... aaand here we are.
+<summary><h3>🏋️&nbsp;Nutrition / Fitness</h3></summary>
 
-I've used myself as my own control group. Have tried keto diets, low-carbs, no-sugar, no-coffee, full-coffee, controlling glycemic index, etc. I am somehow still alive. I'm also an idiot, don't do this at home.
+Physical well-being considered equally or more important than behavioral well-being.
+I try to balance having a care-free life without jumping too deep into long-term consequences. This means rejecting lots of short-term joys for the benefit of long-term rewards.
+I read and learn about field-tested -as well as some experimental- ways of staying healthy through eating, while consistently practicing strength training and low-intensity activities.
+There's always a higher goal to achieve.
 
-Started learning about for aesthetics. It shifted into me trying to get my body to be as stoic as possible for the longest time possible. We're all gonna die anyways, so let's just maximize that time in here.
-
-Currently trying some type of [low-carb diet](https://en.wikipedia.org/wiki/Low-carbohydrate_diet) and focusing on strength training (akin to [powerlifting](https://en.wikipedia.org/wiki/Powerlifting) but not quite). Rather live strong than die weak.
+<p align="center">
+    <img src="./assets/it-is-a-shame-socrates.jpg" height="400px" />
+</p>
 </details>
 
 <!-- GAMING -->
 <details>
-<summary><span>🎮&nbsp;Gaming</span></summary>
-I have played games since I have memory. This is all my dad's fault (I thank him for it!).
-
-I attribute some of my abilities to video games, so I think I will be gaming until I die. Nonetheless, games that do not take me to any mental limit or are not enterntaining, feel like a waste of time (at least for me).
-
-Here's what I've been playing lately. Do judge me:
+<summary><h3>🎮&nbsp;Gaming</h3></summary>
+Games are the ultimate art-form in modern day society.
+My go to leisure activity when nothing interesting is happening.
 
 <p align="center">
-    <a href="https://steamcommunity.com/id/oxspit/" target="_blank"><img src="https://steamcard.vercel.app/card/76561198046962759/en,badge,group" alt="76561198046962759"/></a>
+    <a href="https://steamcommunity.com/id/oxspit/" target="_blank"><img src="https://card.yuy1n.io/card/76561198046962759/ocean-dark,en" alt="76561198046962759"/></a>
 </p>
 </details>
 
 <!-- MUSIC -->
 <details>
-<summary><span>🎶&nbsp;Music</span></summary>
+<summary><h3>🎶&nbsp;Music</h3></summary>
 
-If I limit my music to what I've always liked, I'd be missing on a lot of great things I have never given the chance to enjoy. If you're reading this just send me a song suggestion, I'll hear it.
+I'm always eager to take music recommendations, or create blends with people. Feel free to send some!
 
 <p align="center">
     <a href="https://open.spotify.com/user/22f7dtvpctgyabn5z2vlunwty?si=6c09e6e003bf440e"><img src="https://spotify-recently-played-readme.vercel.app/api?user=22f7dtvpctgyabn5z2vlunwty&unique=true&count=5&width=700"></a>
