@@ -104,7 +104,7 @@ Eventually this became my career, and am currently working as a Front-End Develo
 
 <!-- PROFESSIONAL EXPERIENCE -->
 <details>
-<summary><span cursor="pointer">👨‍💻&nbsp;Experience</span></summary>
+<summary><h3 cursor="pointer">👨‍💻&nbsp;Experience</h3></summary>
 
 <img width="100" align="left" src="./assets/rubiconmd.jpg">
 <p>
@@ -179,32 +179,26 @@ Eventually this became my career, and am currently working as a Front-End Develo
 
 <!-- EDUCATION -->
 <details>
-<summary><span>📚&nbsp;Education</span></summary>
+<summary><h3 cursor="pointer">📚&nbsp;Education</h3></summary>
 
-<img width="100" align="left" src="./assets/ucv.png">
+<img width="100" align="left" src="./assets/ucv.png" />
 <p>
     <strong>Bachelors in Psychology (2012-2017)</strong>
-    <p>Three years of general studies in psychology as foundation plus two more years specializing in Behavioral Sciences with a focus on clinical practice. Disertation built on Consumer Psychology and it's relation to interpersonal dynamics</p>
+    <p>Three years of general studies in psychology as foundation plus two more years specializing in Behavioral Sciences with a focus on clinical practice. Disertation built on Consumer Psychology and it's relation to interpersonal dynamics<br/><br/>
+    </p>
 </p>
 <hr/>
 
-<img width="100" align="left" src="./assets/coursera_logo.png">
+<img width="100" align="left" src="./assets/coursera_logo.png" />
 <p>
-    <strong>Online Specialization on Mean Stack (Angular) (2018-2019)</strong>
-    <p>Online specialization on the Mean stack focused on Angular, sponsored by the Hong Kong University through the Coursera platform. It included Angular, Ionic, Nativescript, MongoDB and Express modules at the time.</p>
+    <strong>Online Specialization on MEAN Stack (Angular) (2018-2019)</strong>
+    <p>Specialization on Mongo, Express, Angular and Node stack, with a big focus on Angular and Express. It used Angular v4.0 at the momment and included Ionic and Nativescript modules as well.<br/><br/>
+    </p>
 </p>
-</details>
-
-<details>
-<summary><span>👨‍💻&nbsp;Web Dev</span></summary>
-After I got my head wrapped around the idea of having to learn to code. I went into <a href="https://codecademy.com">codecademy</a> and started doing the HTML, CSS and Javascript courses. Then I applied in coursera to a MEAN stack basic initiation course (Mongo, Angular, Express, Node)<sup>[2]</sup>, and started messing around with my what I learned in some ideas; later some quick freelance work, fixing components and sometimes creating new ones.
-
-I learned <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'> HTML, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'> CSS, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> Javascript
-, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'> Typescript, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'> Express, <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> Angular and some <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'> Node in a very basic level before landing my first professional job.
-
-<small>2. No longer available :(</small>
 
 </details>
+
+## Other interests
 
 <!-- PSYCHOLOGY -->
 <details>
