@@ -195,6 +195,16 @@ Eventually this became my career, and am currently working as a Front-End Develo
     </p>
 </p>
 
+<hr/>
+<img width="100" align="left" src="./assets/linkedin.png" />
+<p>
+    <strong>LinkedIn Learning & Credentials</strong>
+    <p>Rust essential training <a href="https://www.linkedin.com/learning/certificates/01ad9457bc80c228cd4be3a0c8a08640a474281b738380426d47cfe8405c7848?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvPDkRiKTT%2FOd6emP2mHO2w%3D%3D" target="_blank">[Jun 2023]</a></p>
+    <p>Learning S.O.L.I.D. programming principles <a href="https://www.linkedin.com/learning/certificates/6f7193e9ed730688243a8ac033f903928ddbb1ccd79a3453c2630f0e54733b20?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvPDkRiKTT%2FOd6emP2mHO2w%3D%3D" target="_blank">[Jul 2021]</a></p>
+    <p></p>
+    <br/>
+</p>
+
 </details>
 
 ## Other interests
