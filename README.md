@@ -32,7 +32,6 @@ Personal projects are mainly built with Rust / Typescript.
 I like challenging myself and learning. Teaching is a way of learning and staying up to date.
 
 ## Internet brownie-points
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gavaar&count_private=true&show_icons=true&theme=gotham"></p>
 <p align="center">
     <a href="https://github.com/nschloe/stackoverflow-card" target="_blank">
         <img src="https://stackoverflow-card.vercel.app/?userID=10121165&theme=stackoverflow-dark">
