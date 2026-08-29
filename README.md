@@ -6,32 +6,27 @@
 
 <!-- ## Fran -->
 
-Programming since 2018. Mostly with 
+Web developer since 2018, primarily working with
 <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> 
 Angular,
 <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
 React, 
 <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg'>
-Rails, 
+Rails, with some
 <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg'>
-Rust in the mix.<br/>
-Currently focusing in <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg'>Rust for fun.
+Rust.<br/>
+Currently exploring Rust, Convex through personal projects.
 
 ---
 
-I'm a Web Developer that believes the best code is written by humans (at least for now).
-Studied Psychology with an emphasis on Behavioral Analysis, and a dissertation on Consumer Psychology.
-Transitioned to become a Developer in 2018 after moving to Spain. Learned through Codecademy and Coursera.
+I focus on building readable, maintainable software that can evolve without unnecessary complexity.
+Before moving into development, I studied psychology with an emphasis on behavioral analysis and wrote my dissertation on the relationship between consumer psychology and interpersonal attraction.
 
-*I'm thankful to everyone that has tutored me along the way in both disciplines, as I would not be here without them.*
+I transitioned into web development after moving to Spain in 2018, learning through Codecademy, Coursera, and hands-on personal projects. My background in behavioral science continues to inform how I think about user experience.
 
-I believe to bridge the gap between Front-End development and User Experience by mixing my knowledge in Web Development and Behavioral Sciences.
-I have a growing interest in the Rust ecosystem and it's applications.
-Personal projects are mainly built with Rust / Typescript.
+I am currently developing my knowledge of the Rust ecosystem, and most of my personal projects use Rust or TypeScript.
 
-I like challenging myself and learning. Teaching is a way of learning and staying up to date.
-
-## Internet brownie-points
+<!-- ## Internet brownie-points
 <p align="center">
     <a href="https://github.com/nschloe/stackoverflow-card" target="_blank">
         <img src="https://stackoverflow-card.vercel.app/?userID=10121165&theme=stackoverflow-dark">
@@ -47,7 +42,7 @@ I like challenging myself and learning. Teaching is a way of learning and stayin
     <a href="https://github.com/brunobritodev/awesome-github-stats" target="_blank">
         <img src="https://awesome-github-stats.azurewebsites.net/user-stats/gavaar?cardType=level&theme=blueberry&fontFamily=Geist&preferLogin=false&Border=00000000">
     </a>
-</p>
+</p> -->
 
 <!-- ## Some things I've done that make me proud:
 **Work related**
@@ -102,18 +97,19 @@ Eventually this became my career, and am currently working as a Front-End Develo
 
 <!-- PROFESSIONAL EXPERIENCE -->
 <details>
-<summary><h3 cursor="pointer">👨‍💻&nbsp;Experience</h3></summary>
+<summary><h3 cursor="pointer">👨‍💻&nbsp;Professional Experience</h3></summary>
 
 <img width="100" align="left" src="./assets/rubiconmd.jpg">
 <p>
-    <strong><a href="https://www.rubiconmd.com/">RubiconMd</a> (Dec 2022 - Curent)</strong>
+    <strong><a href="https://www.rubiconmd.com/">RubiconMd</a> (Dec 2022 - May 2026)</strong>
     <p>
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
     </p>
-    <p>Architectural refactors, code reusability and removal of tech debt in a product that lived up-to-date with modern practices with the latest Angular version: removing deprecated pieces ahead of the curve, and implementing new stable features to keep a fresh product. Bootstraped a scratch idea using React-native to bring users closer to the business, rapidly gauging interest from stakeholders</p>
+    <p>Modernized an Angular product through architectural refactors, reusable abstractions, and technical debt reduction. Removed deprecated APIs and adopted stable framework features as the product moved to new Angular versions. Built a React Native prototype with Expo and Nativewind to evaluate a product idea and gather early stakeholder feedback.</p>
+    <p>Adopted AI-assisted tooling to improve development speed while retaining code review and quality controls.</p>
 </p>
 
 <hr/>
@@ -127,7 +123,7 @@ Eventually this became my career, and am currently working as a Front-End Develo
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>&nbsp;
     </p>
-    <p>Rapidly integrated into a new React-based team within 6 months in a period of organizational transition. Built high-performing graphs for a massive product used across the globe.</p>
+    <p>Joined a React team during a period of organizational transition and built performant data visualizations for a global observability platform.</p>
 </p>
 
 <hr/>
@@ -142,7 +138,7 @@ Eventually this became my career, and am currently working as a Front-End Develo
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg'>&nbsp;
     </p>
-    <p>Strong Front-End product built with Angular and kept up-to-date with modern practices in mind, while building rails pieces on the side. Key contributor on a DSP platform which in addition to team effort led to an acquisition by the Verve Group. Complex architectural decisions and refactors were needed at times, given the complexity of the product against the demands of the market.</p>
+    <p>Developed and maintained an Angular front end for a demand-side advertising platform, with additional contributions to its Rails codebase. Worked on architectural decisions and refactors to keep the product maintainable as its requirements evolved. The company was later acquired by Verve Group.</p>
 </p>
 
 <hr/>
@@ -156,7 +152,7 @@ Eventually this became my career, and am currently working as a Front-End Develo
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
     </p>
-    <p>Given the opportunity to rebuild a Front-End from scratch by myself, took the opportunity which resulted in a successful delivery and 100% client satisfaction. Afterwards was entrusted with mentoring a Junior developer while only having a year of experience myself.</p>
+    <p>Independently rebuilt a front end and delivered it successfully to the client. I was subsequently asked to mentor a junior developer for future projects.</p>
 </p>
 
 <hr/>
@@ -170,7 +166,7 @@ Eventually this became my career, and am currently working as a Front-End Develo
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>&nbsp;
         <img height="16px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>&nbsp;
     </p>
-    <p>First hands-on experience as a web-developer. Implementation of Design principles and good programming practices. In-depth Angular since v4. CSS with flexbox and grid. Created some scripts in Typescript</p>
+    <p>Started my professional web development career working with Angular, TypeScript, and modern CSS, including Flexbox and Grid.</p>
 </p>
 
 </details>
@@ -181,16 +177,16 @@ Eventually this became my career, and am currently working as a Front-End Develo
 
 <img width="100" align="left" src="./assets/ucv.png" />
 <p>
-    <strong>Bachelors in Psychology (2012-2017)</strong>
-    <p>Three years of general studies in psychology as foundation plus two more years specializing in Behavioral Sciences with a focus on clinical practice. Disertation built on Consumer Psychology and it's relation to interpersonal dynamics<br/><br/>
+    <strong>Bachelor's degree in Psychology (2012-2017)</strong>
+    <p>Completed three years of general psychology followed by two years specializing in behavioral science, with a focus on clinical practice. My dissertation examined the relationship between consumer psychology and interpersonal attraction.<br/><br/>
     </p>
 </p>
 <hr/>
 
 <img width="100" align="left" src="./assets/coursera_logo.png" />
 <p>
-    <strong>Online Specialization on MEAN Stack (Angular) (2018-2019)</strong>
-    <p>Specialization on Mongo, Express, Angular and Node stack, with a big focus on Angular and Express. It used Angular v4.0 at the momment and included Ionic and Nativescript modules as well.<br/><br/>
+    <strong>Online specialization in the MEAN stack (2018-2019)</strong>
+    <p>Coursework in MongoDB, Express, Angular, and Node.js, with an emphasis on Angular and Express. The program also included Ionic and NativeScript modules.<br/><br/>
     </p>
 </p>
 
@@ -211,8 +207,7 @@ Eventually this became my career, and am currently working as a Front-End Develo
 <!-- PSYCHOLOGY -->
 <details>
 <summary><h3>🧠&nbsp;Psych</h3></summary>
-Interested in the discipline's application to every-day life.
-In particular how people interact with the world around them, and how can this be used for self-improvement.
+I remain interested in how people interact with the world around them and how behavioral insights can support personal development.
 
 <p align="center">
     <img src="./assets/conquer-himself-plato.jpg" height="200px" />
@@ -223,10 +218,7 @@ In particular how people interact with the world around them, and how can this b
 <details>
 <summary><h3>🏋️&nbsp;Nutrition / Fitness</h3></summary>
 
-Physical well-being considered equally or more important than behavioral well-being.
-I try to balance having a care-free life without jumping too deep into long-term consequences. This means rejecting lots of short-term joys for the benefit of long-term rewards.
-I read and learn about field-tested -as well as some experimental- ways of staying healthy through eating, while consistently practicing strength training and low-intensity activities.
-There's always a higher goal to achieve.
+I practice strength training using the [Greyskull method](https://www.powerliftingtowin.com/greyskull-lp/) and read about nutrition, recovery, and sleep. Learning through consistent practice has helped me make more informed long-term decisions about my health.
 
 <p align="center">
     <img src="./assets/it-is-a-shame-socrates.jpg" height="400px" />
@@ -236,8 +228,7 @@ There's always a higher goal to achieve.
 <!-- GAMING -->
 <details>
 <summary><h3>🎮&nbsp;Gaming</h3></summary>
-Games are the ultimate art-form in modern day society.
-My go to leisure activity when nothing interesting is happening.
+I appreciate video games as a medium that brings together visual design, music, storytelling, and interaction.
 
 <p align="center">
     <a href="https://steamcommunity.com/id/oxspit/" target="_blank"><img src="https://card.yuy1n.io/card/76561198046962759/ocean-dark,en" alt="76561198046962759"/></a>
@@ -248,7 +239,7 @@ My go to leisure activity when nothing interesting is happening.
 <details>
 <summary><h3>🎶&nbsp;Music</h3></summary>
 
-I'm always eager to take music recommendations, or create blends with people. Feel free to send some!
+I listen to a wide range of music and always welcome recommendations or a Spotify Blend.
 
 <p align="center">
     <a href="https://open.spotify.com/user/22f7dtvpctgyabn5z2vlunwty?si=6c09e6e003bf440e"><img src="https://spotify-recently-played-readme.vercel.app/api?user=22f7dtvpctgyabn5z2vlunwty&unique=true&count=5&width=700"></a>
